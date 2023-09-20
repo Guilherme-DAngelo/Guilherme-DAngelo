@@ -3,9 +3,9 @@
 <ul align="left">
   <li> Read.ME em andamento...</li>
   </ul>
-
 <hr/>
-  
+
+ <br>
 
   <h1 align="center"> Meus Conhecimentos </h1>
   
@@ -24,6 +24,15 @@
   <img align="center" alt="Terminal" height="50" width="50" src="https://skillicons.dev/icons?i=bash">
 </div>
 <hr/>
+
+  <h1 align="center"> Redes Sociais </h1>
+ 
+<div align="center"> 
+  <a href="https://instagram.com/guih_dangelo/" target="_blank"><img align="center" height="50" weight="50" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="mailto:guigui.dangelo@icloud.com"target="_blank"><img align="center" height="50" weight="50" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-d-655705218/" target="_blank"><img align="center" height="50" weight="50" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<hr/>
  
  <br>
 
@@ -35,15 +44,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-DAngelo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-<hr/>
+ <br>
  
-  <h1 align="center"> Redes Sociais </h1>
- 
-<div align="center"> 
-  <a href="https://instagram.com/guih_dangelo/" target="_blank"><img align="center" height="50" weight="50" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:guigui.dangelo@icloud.com"target="_blank"><img align="center" height="50" weight="50" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-d-655705218/" target="_blank"><img align="center" height="50" weight="50" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<hr/>
+
 
 ![snake gif](https://github.com/Guilherme-DAngelo/Guilherme-DAngelo/blob/output/github-contribution-grid-snake.svg)
