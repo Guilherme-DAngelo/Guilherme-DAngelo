@@ -46,8 +46,8 @@
   
  <div align="center">
    <a href="https://github.com/Guilherme-DAngelo">
-  <img height="203" width="417px" src="https://github-readme-stats.vercel.app/api?username=Guilherme-DAngelo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="203px" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-DAngelo&layout=compact&langs_count=6&theme=synthwave"/>
+  <img height="203" width="417px" src="https://github-readme-stats.vercel.app/api?username=Guilherme-DAngelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="203px" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-DAngelo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
  <br>
