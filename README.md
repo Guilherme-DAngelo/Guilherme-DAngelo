@@ -11,7 +11,7 @@
 
  <br>
 
-  <h1 align="center"> Meus Conhecimentos </h1>
+  <h1 align="center"> Minha Stack </h1>
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="JavaScript" height="80" width="80" src="https://techstack-generator.vercel.app/js-icon.svg">
@@ -53,8 +53,8 @@
   
  <div align="center">
    <a href="https://github.com/Guilherme-DAngelo">
-  <img height="203" width="417px" src="readme-github-guilherme-dangelo.vercel.app//api?username=Guilherme-DAngelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="203px" width="370px" src="readme-github-guilherme-dangelo.vercel.app//api/top-langs/?username=Guilherme-DAngelo&layout=compact&langs_count=6&theme=radical"/>
+  <img height="203" width="417px" src="https://readme-github-guilherme-dangelo-guilhermedangelos-projects.vercel.app//api?username=Guilherme-DAngelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="203px" width="370px" src="https://readme-github-guilherme-dangelo-guilhermedangelos-projects.vercel.app/api/top-langs/?username=Guilherme-DAngelo&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
  <br>
